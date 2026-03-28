@@ -1,5 +1,5 @@
 
-   <img src="https://i.pinimg.com/736x/02/db/b7/02dbb7ba67f07111277a92459301e57b.jpg" width="50"/>
+  
 
 <!--
 **Bhoomi-jain/Bhoomi-jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
