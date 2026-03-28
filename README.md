@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhoomi-jain&theme=tokyo-night&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=9ece6a&area=true&hide_border=true)
+
+<img src="[YOUR_GIF_LINK](https://www.pinterest.com/pin/854909941782754624/)" width="600"/>
