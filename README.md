@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <!--![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhoomi-jain&theme=tokyo-night&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=9ece6a&area=true&hide_border=true)-->
 
-<img src="https://www.pinterest.com/pin/854909941782754624/" width="600"/>
+<img src="https://www.pinterest.com/pin/854909941782754624/](https://i.pinimg.com/originals/90/5f/eb/905feb7f5a879b363d80296eea9495f4.gif" width="600"/>
