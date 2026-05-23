@@ -1,4 +1,11 @@
+<h1 align="center">Hi 👋 I'm Bhoomi Jain</h1>
 
+<p align="center">
+🌸 AI & Data Science Student <br>
+🧠 Building ML & Healthcare AI Models <br>
+💻 Python | Machine Learning | Deep Learning | RAG <br>
+🚀 Currently working on Hospital Readmission Risk Model
+</p>
   
 
 <!--
