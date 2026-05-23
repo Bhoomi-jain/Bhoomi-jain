@@ -1,6 +1,6 @@
 <h1 align="center">
-Hi
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2pnc2l4cTF5bWhwY2w0NzY0M3JqZjlubmE1cWk2NHB6aWprbXNpNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ICOgUNjpvO0PC/giphy.gif" width="45">
+Hi 
+<img src="https://media.tenor.com/zrQ1J0P0lV0AAAAi/computer-girl.gif" width="45">
 I'm Bhoomi Jain
 </h1>
 
