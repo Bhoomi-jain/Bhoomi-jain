@@ -1,7 +1,11 @@
 <h1 align="center">
-Hi <img src="./assets/sticker.png" width="45"> I'm Bhoomi Jain
+<img src="./assets/sticker.png" width="60"><br>
+Hi, I'm Bhoomi Jain 🌸
 </h1>
 
+<p align="center">
+AI & Data Science • Machine Learning • Healthcare AI
+</p>
 
 <p align="center">
 🌸 AI & Data Science Student <br>
