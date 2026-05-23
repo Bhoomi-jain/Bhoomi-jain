@@ -61,9 +61,9 @@ AI 𖹭 Machine Learning 𖹭 RAG 𖹭 LLMs
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Bhoomi-jain&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=Bhoomi-jain&theme=tokyonight&hide_border=true)
 
 </div>
 
