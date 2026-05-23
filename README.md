@@ -4,7 +4,7 @@ Hi, I'm Bhoomi Jain 🌸
 </h1>
 
 <p align="center">
-AI & Data Science • Machine Learning • Healthcare AI
+AI 🐰 Machine Learning 🐰 RAG 🐰 LLMs
 </p>
 
 <p align="center">
