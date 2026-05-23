@@ -28,34 +28,26 @@ AI 𖹭 Machine Learning 𖹭 RAG 𖹭 LLMs
 
 ---
 
-## 🛠 Tech Stack
+## ✦ Tech Stack
 
 <div align="center">
 
-### Languages
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-1a1b26?style=flat-square&labelColor=1a1b26&color=2d3142"/>
+<img src="https://img.shields.io/badge/Java-1a1b26?style=flat-square&labelColor=1a1b26&color=2d3142"/>
+<img src="https://img.shields.io/badge/SQL-1a1b26?style=flat-square&labelColor=1a1b26&color=2d3142"/>
 
 <br><br>
 
-### Machine Learning
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-1a1b26?style=flat-square&labelColor=1a1b26&color=2d3142"/>
+<img src="https://img.shields.io/badge/TensorFlow-1a1b26?style=flat-square&labelColor=1a1b26&color=2d3142"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-1a1b26?style=flat-square&labelColor=1a1b26&color=2d3142"/>
 
 <br><br>
 
-### Tools
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-1a1b26?style=flat-square&labelColor=1a1b26&color=2d3142"/>
+<img src="https://img.shields.io/badge/GitHub-1a1b26?style=flat-square&labelColor=1a1b26&color=2d3142"/>
+<img src="https://img.shields.io/badge/Linux-1a1b26?style=flat-square&labelColor=1a1b26&color=2d3142"/>
+<img src="https://img.shields.io/badge/Jupyter-1a1b26?style=flat-square&labelColor=1a1b26&color=2d3142"/>
 
 </div>
 ---
