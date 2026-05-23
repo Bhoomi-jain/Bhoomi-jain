@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="./assets/image.png" width="60"><br>
+<img src="./assets/hii.png" width="60"><br>
 Hi, I'm Bhoomi Jain
 </h1>
 
