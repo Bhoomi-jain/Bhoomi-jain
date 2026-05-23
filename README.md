@@ -7,6 +7,20 @@ Hi, I'm Bhoomi Jain
 AI 𖹭 Machine Learning 𖹭 RAG 𖹭 LLMs
 </p>
 
+
+<div align="center">
+
+<!-- ADD CLOUD GIF HERE -->
+<!-- ADD CODING CAT GIF HERE -->
+
+# Hi, I'm Bhoomi Jain 🌸
+
+### AI & Data Science Student • Machine Learning • Healthcare AI
+
+Building intelligent systems, training models, and turning ideas into real projects ✨
+
+</div>
+
 ---
 
 ## 🌷 About Me
@@ -28,24 +42,22 @@ AI 𖹭 Machine Learning 𖹭 RAG 𖹭 LLMs
 
 ---
 
-## ⊹ Skills
+## 🛠 Tech Stack
 
-<div align="center">
+### Languages
+`Python` `Java` `SQL`
 
-୨୧ Python  
-୨୧ Java  
-୨୧ SQL  
+### Machine Learning
+`Scikit-Learn` `TensorFlow` `Pandas`
+`NumPy` `Matplotlib`
 
-☁️ Machine Learning  
-☁️ TensorFlow  
-☁️ Scikit-Learn  
+### Tools
+`Git`
+`GitHub`
+`Linux`
+`Jupyter`
+`VS Code`
 
-✦ Git  
-✦ GitHub  
-✦ Linux  
-✦ Jupyter
-
-</div>
 ---
 
 ## 🚀 Featured Projects
@@ -82,8 +94,6 @@ Machine Learning • Model Optimization • Deployment • AI Systems
 ✨ Thanks for visiting my profile ✨
 
 </div>
-
-
 
 <!--
 **Bhoomi-jain/Bhoomi-jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
