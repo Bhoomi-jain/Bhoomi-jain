@@ -4,7 +4,7 @@ Hi, I'm Bhoomi Jain 🌸
 </h1>
 
 <p align="center">
-AI 🐰 Machine Learning 🐰 RAG 🐰 LLMs
+AI 𖹭 Machine Learning 𖹭 RAG 𖹭 LLMs
 </p>
 
 <p align="center">
