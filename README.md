@@ -28,26 +28,22 @@ AI 𖹭 Machine Learning 𖹭 RAG 𖹭 LLMs
 
 ---
 
-## ✦ Tech Stack
+## ⊹ Skills
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-1a1b26?style=flat-square&labelColor=1a1b26&color=2d3142"/>
-<img src="https://img.shields.io/badge/Java-1a1b26?style=flat-square&labelColor=1a1b26&color=2d3142"/>
-<img src="https://img.shields.io/badge/SQL-1a1b26?style=flat-square&labelColor=1a1b26&color=2d3142"/>
+୨୧ Python  
+୨୧ Java  
+୨୧ SQL  
 
-<br><br>
+☁️ Machine Learning  
+☁️ TensorFlow  
+☁️ Scikit-Learn  
 
-<img src="https://img.shields.io/badge/Machine%20Learning-1a1b26?style=flat-square&labelColor=1a1b26&color=2d3142"/>
-<img src="https://img.shields.io/badge/TensorFlow-1a1b26?style=flat-square&labelColor=1a1b26&color=2d3142"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-1a1b26?style=flat-square&labelColor=1a1b26&color=2d3142"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Git-1a1b26?style=flat-square&labelColor=1a1b26&color=2d3142"/>
-<img src="https://img.shields.io/badge/GitHub-1a1b26?style=flat-square&labelColor=1a1b26&color=2d3142"/>
-<img src="https://img.shields.io/badge/Linux-1a1b26?style=flat-square&labelColor=1a1b26&color=2d3142"/>
-<img src="https://img.shields.io/badge/Jupyter-1a1b26?style=flat-square&labelColor=1a1b26&color=2d3142"/>
+✦ Git  
+✦ GitHub  
+✦ Linux  
+✦ Jupyter
 
 </div>
 ---
