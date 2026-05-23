@@ -7,7 +7,9 @@
 🚀 Currently working on Hospital Readmission Risk Model
 </p>
   
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=24&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Machine+Learning+Developer;Building+Healthcare+AI;Learning+Every+Day+✨">
+</p>
 <!--
 **Bhoomi-jain/Bhoomi-jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
  <!-- <img src="https://i.pinimg.com/originals/c1/3e/7f/c13e7f371b14f93e91808200631b8a81.gif" width="100"/> -->
