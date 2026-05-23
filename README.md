@@ -1,48 +1,35 @@
-<h1 align="center">
-<img src="./assets/hii.png" width="60"><br>
-Hi, I'm Bhoomi Jain
-</h1>
-
-<p align="center">
-AI 𖹭 Machine Learning 𖹭 RAG 𖹭 LLMs
-</p>
 
 
-<div align="center">
+# Hi, I'm Bhoomi Jain
 
-<!-- ADD CLOUD GIF HERE -->
-<!-- ADD CODING CAT GIF HERE -->
+### AI • Machine Learning • RAG • LLMs
 
-# Hi, I'm Bhoomi Jain 🌸
-
-### AI & Data Science Student • Machine Learning • Healthcare AI
-
-Building intelligent systems, training models, and turning ideas into real projects ✨
+“Experience is simply the name we give our mistakes.” — Oscar Wilde
 
 </div>
 
 ---
 
-## 🌷 About Me
+## About Me
 
-🧠 B.Tech in Artificial Intelligence & Data Science  
-💻 Interested in Machine Learning, Deep Learning & AI Applications  
-🏥 Building healthcare and predictive AI systems  
-🚀 Exploring deployment and end-to-end ML workflows  
-📚 Currently learning and improving every day
-
----
-
-## ✨ Current Focus
-
-🔹 Hospital Readmission Risk Model  
-🔹 Healthcare Risk Assessment Systems  
-🔹 Model Deployment & UI Development  
-🔹 Retrieval-Augmented Generation (RAG)
+ B.Tech in Artificial Intelligence & Data Science  
+ Interested in Machine Learning, Deep Learning & AI Applications  
+ Building healthcare and predictive AI systems  
+ Exploring deployment and end-to-end ML workflows  
+ Currently learning and improving every day
 
 ---
 
-## 🛠 Tech Stack
+## Current Focus
+
+ Hospital Readmission Risk Model  
+ Healthcare Risk Assessment Systems  
+ Model Deployment & UI Development  
+ Retrieval-Augmented Generation (RAG)
+
+---
+
+## Tech Stack
 
 ### Languages
 `Python` `Java` `SQL`
@@ -60,18 +47,8 @@ Building intelligent systems, training models, and turning ideas into real proje
 
 ---
 
-## 🚀 Featured Projects
 
-🌸 PCOS Risk Assessment Model  
-🧠 Tumor Classification  
-❤️ Heart Disease Prediction  
-📈 Blood Pressure Variability Model  
-🏥 Hospital Readmission Risk Model  
-🔎 RAG Q&A Chatbot
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -83,7 +60,7 @@ Building intelligent systems, training models, and turning ideas into real proje
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 Machine Learning • Model Optimization • Deployment • AI Systems
 
@@ -91,7 +68,7 @@ Machine Learning • Model Optimization • Deployment • AI Systems
 
 <div align="center">
 
-✨ Thanks for visiting my profile ✨
+ Thanks for visiting my profile 
 
 </div>
 
