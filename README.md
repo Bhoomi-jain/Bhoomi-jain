@@ -1,9 +1,8 @@
 <h1 align="center">
-Hi 
-<img src="https://media.tenor.com/zrQ1J0P0lV0AAAAi/computer-girl.gif" width="45">
+<img src="./assets/hi.png" width="65">
+<br>
 I'm Bhoomi Jain
 </h1>
-
 <p align="center">
 🌸 AI & Data Science Student <br>
 🧠 Building ML & Healthcare AI Models <br>
