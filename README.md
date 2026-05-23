@@ -26,10 +26,10 @@
 <p align="center">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api?username=Bhoomi-jain&show_icons=true&theme=tokyonight"/>
 
 <img height="170"
-src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+[src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>](https://streak-stats.demolab.com?user=Bhoomi-jain&theme=tokyonight)
 
 </p>
 
