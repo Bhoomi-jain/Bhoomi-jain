@@ -16,5 +16,18 @@
 <p align="center">
   <h3>
   <b>AI/ML Engineer</b> specializing in building <b>end-to-end ML pipelines</b>.</h3>
-<h6>I build things that sometimes work. When they don't, I blame the dataset.<br></h6>
+<h6>I build things that sometimes work. When they don't, I blame the dataset.<br> </h6>
 </p>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Bhoomi-jain&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD700&text_color=C9D1D9" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhoomi-jain&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FFD700&fire=FF6B6B&currStreakLabel=00D4AA" height="160" />
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhoomi-jain&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FFD700&point=00D4AA" width="85%" />
+</div>
+
+<br>
