@@ -8,9 +8,8 @@
   
   <br><br>
   
-  <img src="https://img.shields.io/badge/Mental%20Stability-0%25-FF007F?style=for-the-badge&logo=ghost&logoColor=white" />
   <img src="https://img.shields.io/badge/Bugs%20Created-%E2%88%9E-FFD700?style=for-the-badge&logo=bugatti&logoColor=black" />
-  <img src="https://img.shields.io/badge/Coffee%20Intake-Lethal-8B4513?style=for-the-badge&logo=coffeescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coffee%20Intake-NA-8B4513?style=for-the-badge&logo=coffeescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Sleep%20Schedule-What%3F-7B68EE?style=for-the-badge&logo=bed&logoColor=white" />
 </div>
 
@@ -18,7 +17,7 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/mCRJDoWo1n7Pe/giphy.gif" width="40"> 
-  who dis?
+  Who dis?
   <img src="https://media.giphy.com/media/mCRJDoWo1n7Pe/giphy.gif" width="40">
 </h2>
 
@@ -29,14 +28,14 @@
 
 
 
-> *"Experience is simply the name we give our mistakes."* — Oscar Wilde  
-> *"My GitHub is just a museum of my mistakes. Free entry."* — Me
+> Experience is simply the name we give our mistakes. :  Oscar Wilde  
+> My GitHub is just a museum of my mistakes. Free entry. : — Me(Probably)
 
 <br>
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/26uf9QPzzlmp9VO1G/giphy.gif" width="35">
-  what am i even doing rn
+  What am i even doing rn
   <img src="https://media.giphy.com/media/26uf9QPzzlmp9VO1G/giphy.gif" width="35">
 </h2>
 
@@ -44,19 +43,14 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="80"><br>
-        <b>🏥 Hospital Readmission</b><br>
-        <sub>teaching AI to be a better doctor than WebMD</sub>
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/26uf9QPzzlmp9VO1G/giphy.gif" width="80"><br>
-        <b>🤖 RAG Systems</b><br>
-        <sub>retrieving my will to live</sub>
+        <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="80"><br>
+        <b> RAG Systems</b><br>
+        <sub>Retrieving my will to live</sub>
       </td>
       <td align="center">
         <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="80"><br>
-        <b>🌐 Deployment</b><br>
-        <sub>it works on localhost!!!</sub>
+        <b> Deployment</b><br>
+        <sub>It works on localhost!!!</sub>
       </td>
     </tr>
   </table>
@@ -66,7 +60,7 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="35">
-  things i've yelled at
+  Things i've yelled at
   <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="35">
 </h2>
 
