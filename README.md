@@ -10,3 +10,4 @@
 <br><br>
 
 
+<img src="https://img.shields.io/badge/Bugs%20Created-%E2%88%9E-FFD700?style=for-the-badge&logo=bugatti&logoColor=black" />
