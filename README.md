@@ -9,6 +9,6 @@
 
 <br><br>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=100000&color=FF6B6B&center=true&vCenter=true&width=900&lines=My+code+works+on+my+machine.+Your+machine+is+wrong." />
-</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=My%20code%20works%20on%20my%20machine.%20Your%20machine%20is%20wrong.&fontSize=24&fontColor=ffffff" />
+</p>
