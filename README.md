@@ -54,8 +54,10 @@
 <br><br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=650&lines=Thanks+for+stalking+my+profile!+%F0%9F%91%80;Let's+build+something+that+actually+matters+%F0%9F%9A%80;Open+to+collabs+on+AI%2C+RAG%2C+and+Healthcare+ML+%E2%9C%A8" alt="Footer Typing" />
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=650&lines=Thanks+for+stalking+my+profile!;Let's+build+something+that+actually+matters;Star+my+repos;Open+to+collabs+on+AI%2C+RAG%2C+and+ML" alt="Footer Typing" />
+
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=650&lines=now+go+touch+grass+(i+can't%2C+i'm+training+a+model)" alt="Footer Typing" />
   <br><br>
   
   <img src="https://komarev.com/ghpvc/?username=Bhoomi-jain&color=00D4AA&style=for-the-badge&label=Profile+Views" />
