@@ -97,6 +97,9 @@
 | Trained a model that didn't overfit |  Liar, liar, pants on fire |
 
 </div>
+<div align="center>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUya2toaWFvOGtpdnVqNm1tZDMzNWx2Z2U1emJ3OHl0a3YxZHVhZTl1MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hUm3VvUwQ9PrO/giphy.gif" width="200">
+</div>
 
 <br>
 
