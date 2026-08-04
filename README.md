@@ -56,6 +56,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=650&lines=Thanks+for+stalking+my+profile!;Let's+build+something+that+actually+matters;Star+my+repos;Open+to+collabs+on+AI%2C+RAG%2C+and+ML" alt="Footer Typing" />
 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWc1N3pvcWpkYzMxaGFodm96dWUyb2w3a3FoZDlmMngzMmZsOGJhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OJGAVZubDhC2KyHljK/giphy.gif"height="160" />
+
 <h6>Now go touch some grass I can't I'm training a model</h6>
 
   <br><br>
