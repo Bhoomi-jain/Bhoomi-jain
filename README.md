@@ -28,7 +28,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHV1cWV2bDJ1MGYxMGlhbHJ5YTVqZmN0djV0eXE4d3I4dDNpcGxydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PCTrPlwWYEeDIHD9pV/giphy.gif" width="80">
 </h2>
 
-| Achievement | ? |
+| Achievement | Status |
 |-------------|--------|
 | Model hallucination? | Everyday Activities |
 | Fixed a bug by turning it off and on again |  Common |
