@@ -1,11 +1,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=500&lines=hi.+i'm+bhoomi.;i+make+computers+guess+things.;sometimes+they+guess+right." />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=500&lines=Hi.+I'm+bhoomi.;I+make+computers+guess+things.;Sometimes+they+guess+right.;Mostl+they+don't." />
 
 <br><br>
 
-<img src="https://media.giphy.com/media/ule6mWdmt9gM8/giphy.gif" width="220" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG1hZW1ncWx0cTBoa3BqdnNpeWtlcnc3eW81dGV1cHI2Y28zYTE4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KI5JqBqOKCPjG/giphy.gif" width="220" />
 
 <br><br>
 
