@@ -20,6 +20,30 @@
 </p>
 
 
+<br>
+
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR3cTgyNXJ3ZnE4ZzFzb28xYWwxcXM0YnR5NjAycTJ3djVjcXE2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/J3JNcQcpMiEbRDkxtu/giphy.gif" width="120">
+<h2 align="center">  
+  Things that matters 
+</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-_Its_fine_i_guess-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-_My_GPU_is_crying-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-_Deprecated_again-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-_Why_so_many_chains-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-_It_works_in_container-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-_Zoom_zoom-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-_Injection_proof-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-_Force_push_go_brr-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-_Vector_vibes-1C1C1C?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-_Tree_gang-EB5B2E?style=for-the-badge&logo=xgboost&logoColor=white" />
+</p>
+
+<br>
+
+
+
 <div align="center">
 
 <h2 align="center">
@@ -39,28 +63,6 @@
 
 </div>
 
-<br>
-
-<h2 align="center">
-  <img src="[https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR3cTgyNXJ3ZnE4ZzFzb28xYWwxcXM0YnR5NjAycTJ3djVjcXE2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/J3JNcQcpMiEbRDkxtu/giphy.gif)" width="35">
-  Things that matters 
-  <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="35">
-</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-_Its_fine_i_guess-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-_My_GPU_is_crying-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-_Deprecated_again-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-_Why_so_many_chains-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-_It_works_in_container-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-_Zoom_zoom-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-_Injection_proof-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-_Force_push_go_brr-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-_Vector_vibes-1C1C1C?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-_Tree_gang-EB5B2E?style=for-the-badge&logo=xgboost&logoColor=white" />
-</p>
-
-<br>
 
 
 <div align="center">
