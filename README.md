@@ -41,10 +41,8 @@
 
 
 <div align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Bhoomi-jain&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD700&text_color=C9D1D9" height="160" /> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhoomi-jain&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FFD700&fire=FF6B6B&currStreakLabel=00D4AA" height="160" />
+  <img src="https://streak-stats.demolab.com?user=Bhoomi-jain&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FFD700&fire=FF6B6B&currStreakLabel=00D4AA" height="160" />
 </div>
-
 <br>
 
 <div align="center">
