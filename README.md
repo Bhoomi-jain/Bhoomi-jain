@@ -10,7 +10,5 @@
 <br><br>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/mCRJDoWo1n7Pe/giphy.gif" width="40"> 
   Who dis?
-  <img src="https://media.giphy.com/media/mCRJDoWo1n7Pe/giphy.gif" width="40">
 </h2>
