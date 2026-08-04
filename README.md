@@ -51,4 +51,13 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhoomi-jain&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FFD700&point=00D4AA" width="85%" />
 </div>
 
-<br>
+<br><br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=650&lines=Thanks+for+stalking+my+profile!+%F0%9F%91%80;Let's+build+something+that+actually+matters+%F0%9F%9A%80;Open+to+collabs+on+AI%2C+RAG%2C+and+Healthcare+ML+%E2%9C%A8" alt="Footer Typing" />
+  
+  <br><br>
+  
+  <img src="https://komarev.com/ghpvc/?username=Bhoomi-jain&color=00D4AA&style=for-the-badge&label=Profile+Views" />
+  
+  <br><br>
