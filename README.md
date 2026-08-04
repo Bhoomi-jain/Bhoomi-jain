@@ -17,7 +17,6 @@
   <h3>
   <b>AI/ML Engineer</b> specializing in building <b>end-to-end ML pipelines</b>.
   </h3>
-  <br><br>
-I build things that sometimes work. When they don't, I blame the dataset.<br>
-  
+  <br>
+<h1>I build things that sometimes work. When they don't, I blame the dataset.<br></h1>
 </p>
