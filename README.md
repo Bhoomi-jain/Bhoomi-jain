@@ -9,5 +9,8 @@
 
 <br><br>
 
-
-<img src="https://img.shields.io/badge/Bugs%20Created-%E2%88%9E-FFD700?style=for-the-badge&logo=bugatti&logoColor=black" />
+<h2 align="center">
+  <img src="https://media.giphy.com/media/mCRJDoWo1n7Pe/giphy.gif" width="40"> 
+  Who dis?
+  <img src="https://media.giphy.com/media/mCRJDoWo1n7Pe/giphy.gif" width="40">
+</h2>
