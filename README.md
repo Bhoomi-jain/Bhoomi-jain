@@ -9,6 +9,6 @@
 
 <br><br>
 
-<p align="center">
-  <img src="text=My%20code%20works%20on%20my%20machine.%20Your%20machine%20is%20wrong.&fontSize=24&fontColor=ffffff" />
-</p>
+<h2 align="center">
+  <strong>My code works on my machine. Your machine is wrong.</strong>
+</h2>
