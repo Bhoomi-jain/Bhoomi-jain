@@ -19,6 +19,27 @@
 <h6>I build things that sometimes work. When they don't, I blame the dataset.<br> </h6>
 </p>
 
+
+<div align="center">
+
+<h2 align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHV1cWV2bDJ1MGYxMGlhbHJ5YTVqZmN0djV0eXE4d3I4dDNpcGxydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PCTrPlwWYEeDIHD9pV/giphy.gif" width="80">
+  Achievements I can't add in Resume
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHV1cWV2bDJ1MGYxMGlhbHJ5YTVqZmN0djV0eXE4d3I4dDNpcGxydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PCTrPlwWYEeDIHD9pV/giphy.gif" width="80">
+</h2>
+
+| Achievement | ? |
+|-------------|--------|
+| Model hallucination? | Everyday Activities |
+| Fixed a bug by turning it off and on again |  Common |
+| Can explain backpropagation without crying | Haha(No) |
+| Used `git push --force` and the repo still exists | Peace |
+| Wrote code that worked on FIRST try | Impossible (allegedly happened once in January) |
+| Trained a model that didn't overfit |  Liar, liar, pants on fire |
+
+</div>
+
+
 <div align="center">
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Bhoomi-jain&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD700&text_color=C9D1D9" height="160" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhoomi-jain&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FFD700&fire=FF6B6B&currStreakLabel=00D4AA" height="160" />
