@@ -10,5 +10,5 @@
 <br><br>
 
 <h2 align="center">
-  Who dis?
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=100000&color=FF6B6B&center=true&vCenter=true&width=900&lines=My+code+works+on+my+machine.+Your+machine+is+wrong." />
 </h2>
