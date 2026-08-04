@@ -136,7 +136,6 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100" />
 </div>
 
-```text
 "please just converge"
 "i'll buy you thermal paste if you train faster"
 "why are you 90°C i'm not even running anything"
@@ -172,4 +171,3 @@
 
 <sub>
 </div>
-```
