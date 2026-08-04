@@ -10,5 +10,5 @@
 <br><br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=My%20code%20works%20on%20my%20machine.%20Your%20machine%20is%20wrong.&fontSize=24&fontColor=ffffff" />
+  <img src="text=My%20code%20works%20on%20my%20machine.%20Your%20machine%20is%20wrong.&fontSize=24&fontColor=ffffff" />
 </p>
