@@ -48,7 +48,8 @@
 <br>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhoomi-jain&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FFD700&point=00D4AA" width="85%" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhoomi-jain&theme=transparent&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
 </div>
 
 <br><br>
