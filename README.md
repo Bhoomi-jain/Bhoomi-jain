@@ -45,13 +45,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhoomi-jain&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FFD700&fire=FF6B6B&currStreakLabel=00D4AA" height="160" />
 </div>
 
-<br>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhoomi-jain&theme=transparent&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
-</div>
-
 <br><br>
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWc1N3pvcWpkYzMxaGFodm96dWUyb2w3a3FoZDlmMngzMmZsOGJhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OJGAVZubDhC2KyHljK/giphy.gif" width="120" />
@@ -69,18 +62,3 @@
   
   <br><br>
 
-  <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=Bhoomi-jain&show_icons=true&count_private=true&theme=transparent&title_color=00bfff&icon_color=00bfff&text_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=Bhoomi-jain&show_icons=true&count_private=true&theme=default">
-    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=Bhoomi-jain&show_icons=true&count_private=true&theme=default" height="200px">
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=Bhoomi-jain&layout=compact&langs_count=8&theme=transparent&title_color=00bfff&text_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=Bhoomi-jain&layout=compact&langs_count=8&theme=default">
-    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=Bhoomi-jain&layout=compact&langs_count=8&theme=default" height="200px">
-  </picture>
-
-</div>
