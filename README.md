@@ -10,5 +10,11 @@
 <br><br>
 
 <h2 align="center">
-  <strong>My code works on my machine. Your machine is wrong.</strong>
+  <strong>About Me</strong>
 </h2>
+<p align="center">
+  <b>AI/ML Engineer</b> specializing in building <b>end-to-end ML pipelines</b> using Python, TensorFlow & PyTorch.
+  <br>
+I build things that sometimes work. When they don't, I blame the dataset.<br>
+Currently accepting that I will eventually be replaced by something I built.
+</p>
