@@ -60,10 +60,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=650&lines=Thanks+for+stalking+my+profile!;Let's+build+something+that+actually+matters;Star+my+repos;Open+to+collabs+on+AI%2C+RAG%2C+and+ML" alt="Footer Typing" />
 
 
-<h6>Now go touch some grass I can't I'm training a model</h6>
+<h6>Now go touch some grass; I can't I'm training a model</h6>
 
   <br><br>
   
-  <img src="https://komarev.com/ghpvc/?username=Bhoomi-jain&color=00D4AA&style=for-the-badge&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Bhoomi-jain&color=00D4AA&style=for-the-badge&label=People+who+regret+this:" />
   
   <br><br>
