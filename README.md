@@ -40,7 +40,7 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=Bhoomi-jain&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FFD700&fire=FF6B6B&currStreakLabel=00D4AA" height="160" />
 </div>
 <br>
@@ -48,7 +48,7 @@
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhoomi-jain&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FFD700&point=00D4AA" width="85%" />
 </div>
-<br><br>
+<br><br> -->
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWc1N3pvcWpkYzMxaGFodm96dWUyb2w3a3FoZDlmMngzMmZsOGJhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OJGAVZubDhC2KyHljK/giphy.gif" width="120" />
 
